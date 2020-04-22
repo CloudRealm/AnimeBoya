@@ -1,7 +1,7 @@
 {
   "code": "3",
   "ver": "0.03",
-  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/tag/br2",
+  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br2/app-release.apk",
   "whatsNew": ["Watch Anime online","Watch subbed anime","Watch dubbed Anime"],
-  "immediateUpdate":"true"
+  "immediateUpdate":"false"
 }
