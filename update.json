@@ -3,5 +3,5 @@
   "ver": "0.08",
   "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br7/release-0.08.apk",
   "whatsNew": ["Random button bug fixed"],
-  "immediateUpdate":"true"
+  "immediateUpdate":"false"
 }
