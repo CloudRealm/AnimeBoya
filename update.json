@@ -1,7 +1,7 @@
 {
-  "code": "6",
-  "ver": "0.06",
+  "code": "7",
+  "ver": "0.07",
   "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br5/app-release.apk",
-  "whatsNew": ["Watch Anime online","Watch subbed anime","Watch dubbed Anime"],
-  "immediateUpdate":"false"
+  "whatsNew": ["UI redesigned"],
+  "immediateUpdate":"true"
 }
