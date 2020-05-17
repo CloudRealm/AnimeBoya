@@ -1,7 +1,7 @@
 {
-  "code": "7",
-  "ver": "0.07",
-  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br6/release-0.07.apk",
-  "whatsNew": ["UI redesigned"],
+  "code": "8",
+  "ver": "0.08",
+  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br7/release-0.08.apk",
+  "whatsNew": ["Random button bug fixed"],
   "immediateUpdate":"true"
 }
