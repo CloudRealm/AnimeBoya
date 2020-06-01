@@ -3,5 +3,5 @@
   "ver": "0.010",
   "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br9/release-0.010.apk",
   "whatsNew": ["Crash fixed, Pause resume and batch download support added, Social links added, minor bugs fixed"],
-  "immediateUpdate":"true"
+  "immediateUpdate":"false"
 }
