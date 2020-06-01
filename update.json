@@ -1,6 +1,6 @@
 {
-  "code": "9",
-  "ver": "0.09",
+  "code": "8",
+  "ver": "0.08",
   "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br8/release-0.09.apk",
   "whatsNew": ["Pause resume and batch download support added, Social links added, minor bugs fixed"],
   "immediateUpdate":"true"
